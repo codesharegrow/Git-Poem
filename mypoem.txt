@@ -1,6 +1,7 @@
 Red
 Orange
 Yellow
+Indigo
 Purple
 Blue
 Green
@@ -9,6 +10,4 @@ Maroon
 i love unicorn
 unicorn and rainbows
 
-Adding fairies
-i love faireies
-unicorn rainbows and fairies
+
