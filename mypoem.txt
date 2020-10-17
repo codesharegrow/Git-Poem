@@ -2,6 +2,7 @@ Red
 Orange
 Yellow
 Purple
+Indigo
 Blue
 Green
 Maroon
